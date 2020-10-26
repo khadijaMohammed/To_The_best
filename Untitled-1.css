@@ -1,0 +1,25 @@
+.nav{
+    Height: 75px; 
+    background: royalblue;
+       
+}
+
+.header{
+
+Height: 400px;
+Background: lightskyblue}
+
+.p{
+    Height: 200px;
+Background: khaki;
+Space beneath: 75px
+
+}
+
+.div1{
+    Height: 400px;
+    Width: 48% /*of the parent's width, with space in between*/;
+    Background: tomato
+
+}
+
